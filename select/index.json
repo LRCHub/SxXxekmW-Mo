@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おやすみっどないと",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:26:22.961167Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみっどないと (feat. 音無あふ)",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみっどないと_(feat._音無あふ)_429.txt"
+    }
+  ]
+}
